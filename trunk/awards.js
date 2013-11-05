@@ -26,7 +26,8 @@ postMessage({awards:{
 	"thejadefalcon":{
 		"groupchat":true,
 		"community":true,
-		"TriviaKnight":true
+		"TriviaKnight":true,
+		"halloween2013":true
 	},
 	"lokonopa":{
 		"groupchat":true,
@@ -103,7 +104,8 @@ postMessage({awards:{
 	},
 	"bobofatt":{
 		"groupchat":true,
-		"TriviaKnight":true
+		"TriviaKnight":true,
+		"halloween2013":true
 	},
 	"trinityglasfille":{
 		"groupchat":true
@@ -122,7 +124,8 @@ postMessage({awards:{
 		"community":true
 	},
 	"tragikos":{
-		"community":true
+		"community":true,
+		"halloween2013":true
 	},
 	"calimero100582":{
 		"halloween2012":true
@@ -186,7 +189,7 @@ postMessage({awards:{
 	},
 	"arnab21":{
 		"halloween2012":true,
-		"groupchat": true
+		"groupchat":true
 	},
 	"nfreak":{
 		"halloween2012":true
@@ -364,7 +367,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"motorkar":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"d3struction":{
 		"halloween2012":true
@@ -525,7 +529,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"zhur":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"ageofarmageddon":{
 		"halloween2012":true
@@ -565,7 +570,7 @@ postMessage({awards:{
 	},
 	"nimbulan":{
 		"halloween2012":true,
-		"groupchat": true,
+		"groupchat":true,
 		"TriviaKnight":true
 	},
 	"mfromm":{
@@ -575,7 +580,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"killergp123":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"monukai":{
 		"halloween2012":true,
@@ -583,7 +589,8 @@ postMessage({awards:{
 	},
 	"madnessnewb":{
 		"groupchat":true,
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"nikolai":{
 		"halloween2012":true
@@ -897,6 +904,7 @@ postMessage({awards:{
 	"dotazured":{
 		"groupchat":true,
 		"halloween2012":true,
+		"halloween2013":true,
 		"halloween2013":true
 	},
 	"gawaine":{
@@ -951,7 +959,8 @@ postMessage({awards:{
 		"groupchat":true
 	},
 	"le4slie":{
-		"groupchat":true
+		"groupchat":true,
+		"halloween2013":true
 	},
 	"infectedvein":{
 		"groupchat":true
@@ -979,7 +988,8 @@ postMessage({awards:{
 		"groupchat":true
 	},
 	"doubledragon666":{
-		"TriviaKnight":true
+		"TriviaKnight":true,
+		"halloween2013":true
 	},
 	"morphinebear":{
 		"TriviaKnight":true
@@ -1027,7 +1037,8 @@ postMessage({awards:{
 		"TriviaKnight":true
 	},
 	"bibboorton":{
-		"TriviaKnight":true
+		"TriviaKnight":true,
+		"halloween2013":true
 	},
 	"minibaa":{
 		"TriviaKnight":true
@@ -1061,7 +1072,8 @@ postMessage({awards:{
 		"TriviaKnight":true
 	},
 	"leomoty":{
-		"TriviaKnight":true
+		"TriviaKnight":true,
+		"halloween2013":true
 	},
 	"fortybucksdown":{
 		"TriviaKnight":true
@@ -1133,7 +1145,8 @@ postMessage({awards:{
 		"TriviaKnight":true
 	},
 	"likwitsnake":{
-		"TriviaKnight":true
+		"TriviaKnight":true,
+		"halloween2013":true
 	},
 	"elix":{
 		"TriviaKnight":true
@@ -1154,7 +1167,8 @@ postMessage({awards:{
 		"TriviaKnight":true
 	},
 	"kerepekman":{
-		"TriviaKnight":true
+		"TriviaKnight":true,
+		"halloween2013":true
 	},
 	"killa24":{
 		"TriviaKnight":true
@@ -1164,6 +1178,773 @@ postMessage({awards:{
 	},
 	"notnsane":{
 		"TriviaKnight":true
+	},
+	"sleepycat":{
+		"halloween2013":true
+	},
+	"lapiopoop":{
+		"halloween2013":true
+	},
+	"hitscan":{
+		"halloween2013":true
+	},
+	"deltabladex":{
+		"halloween2013":true
+	},
+	"themightycreep":{
+		"halloween2013":true
+	},
+	"myzery":{
+		"halloween2013":true
+	},
+	"combatwars":{
+		"halloween2013":true
+	},
+	"ethylmethylether":{
+		"halloween2013":true
+	},
+	"dazeofwar":{
+		"halloween2013":true
+	},
+	"ki11fr3ak":{
+		"halloween2013":true
+	},
+	"dupetank":{
+		"halloween2013":true
+	},
+	"botheredme":{
+		"halloween2013":true
+	},
+	"khune":{
+		"halloween2013":true
+	},
+	"necroblight":{
+		"halloween2013":true
+	},
+	"misskpavd":{
+		"halloween2013":true
+	},
+	"jokke88":{
+		"halloween2013":true
+	},
+	"vyn":{
+		"halloween2013":true
+	},
+	"pauloondra":{
+		"halloween2013":true
+	},
+	"zelghadis":{
+		"halloween2013":true
+	},
+	"cha0sst0rm":{
+		"halloween2013":true
+	},
+	"toaster":{
+		"halloween2013":true
+	},
+	"spydrebyte":{
+		"halloween2013":true
+	},
+	"foxpile":{
+		"halloween2013":true
+	},
+	"zharwyn":{
+		"halloween2013":true
+	},
+	"collin":{
+		"halloween2013":true
+	},
+	"lak3108":{
+		"halloween2013":true
+	},
+	"erik108":{
+		"halloween2013":true
+	},
+	"jelly00":{
+		"halloween2013":true
+	},
+	"thedopefish":{
+		"halloween2013":true
+	},
+	"fet":{
+		"halloween2013":true
+	},
+	"pish4":{
+		"halloween2013":true
+	},
+	"koromoshydopolous":{
+		"halloween2013":true
+	},
+	"p4inkill3r":{
+		"halloween2013":true
+	},
+	"catchthebear":{
+		"halloween2013":true
+	},
+	"thomen":{
+		"halloween2013":true
+	},
+	"erreff":{
+		"halloween2013":true
+	},
+	"jayjaytheant":{
+		"halloween2013":true
+	},
+	"sxcnn":{
+		"halloween2013":true
+	},
+	"seanbahamut":{
+		"halloween2013":true
+	},
+	"nb264":{
+		"halloween2013":true
+	},
+	"killingarts":{
+		"halloween2013":true
+	},
+	"waskaxo":{
+		"halloween2013":true
+	},
+	"abysanik":{
+		"halloween2013":true
+	},
+	"dys":{
+		"halloween2013":true
+	},
+	"psk":{
+		"halloween2013":true
+	},
+	"anktejp":{
+		"halloween2013":true
+	},
+	"cxoing93":{
+		"halloween2013":true
+	},
+	"josgba2002":{
+		"halloween2013":true
+	},
+	"obusy":{
+		"halloween2013":true
+	},
+	"nonos":{
+		"halloween2013":true
+	},
+	"analfries":{
+		"halloween2013":true
+	},
+	"mike2kevin":{
+		"halloween2013":true
+	},
+	"davidsarif":{
+		"halloween2013":true
+	},
+	"ardal":{
+		"halloween2013":true
+	},
+	"suits":{
+		"halloween2013":true
+	},
+	"fight4lifex":{
+		"halloween2013":true
+	},
+	"superfluffykitty":{
+		"halloween2013":true
+	},
+	"diablo2k5":{
+		"halloween2013":true
+	},
+	"waciach":{
+		"halloween2013":true
+	},
+	"piticarus":{
+		"halloween2013":true
+	},
+	"sttr7":{
+		"halloween2013":true
+	},
+	"darkemis":{
+		"halloween2013":true
+	},
+	"zeus9860":{
+		"halloween2013":true
+	},
+	"brutodetestssb":{
+		"halloween2013":true
+	},
+	"godprobe":{
+		"halloween2013":true
+	},
+	"deolic":{
+		"halloween2013":true
+	},
+	"1pac":{
+		"halloween2013":true
+	},
+	"sha33":{
+		"halloween2013":true
+	},
+	"desidiosus":{
+		"halloween2013":true
+	},
+	"mortado":{
+		"halloween2013":true
+	},
+	"aloxx":{
+		"halloween2013":true
+	},
+	"rimski":{
+		"halloween2013":true
+	},
+	"ladeeda":{
+		"halloween2013":true
+	},
+	"qwertz12":{
+		"halloween2013":true
+	},
+	"jaklong11":{
+		"halloween2013":true
+	},
+	"dhoomdealer":{
+		"halloween2013":true
+	},
+	"arr0whead":{
+		"halloween2013":true
+	},
+	"defieo":{
+		"halloween2013":true
+	},
+	"elikso":{
+		"halloween2013":true
+	},
+	"blezzer":{
+		"halloween2013":true
+	},
+	"aserith":{
+		"halloween2013":true
+	},
+	"gubudugu":{
+		"halloween2013":true
+	},
+	"silentbugler":{
+		"halloween2013":true
+	},
+	"buri":{
+		"halloween2013":true
+	},
+	"punisher121":{
+		"halloween2013":true
+	},
+	"pelish":{
+		"halloween2013":true
+	},
+	"kappei":{
+		"halloween2013":true
+	},
+	"andrea":{
+		"halloween2013":true
+	},
+	"doober":{
+		"halloween2013":true
+	},
+	"beep23":{
+		"halloween2013":true
+	},
+	"pincheti":{
+		"halloween2013":true
+	},
+	"cubi2k":{
+		"halloween2013":true
+	},
+	"osmaniac":{
+		"halloween2013":true
+	},
+	"veteranu21":{
+		"halloween2013":true
+	},
+	"wheatley5981":{
+		"halloween2013":true
+	},
+	"mari1":{
+		"halloween2013":true
+	},
+	"mtic":{
+		"halloween2013":true
+	},
+	"dru95":{
+		"halloween2013":true
+	},
+	"biodelic":{
+		"halloween2013":true
+	},
+	"dalek69":{
+		"halloween2013":true
+	},
+	"crizyz":{
+		"halloween2013":true
+	},
+	"armadx":{
+		"halloween2013":true
+	},
+	"serenity87hun":{
+		"halloween2013":true
+	},
+	"nfreak":{
+		"halloween2013":true
+	},
+	"matiasm15":{
+		"halloween2013":true
+	},
+	"dooder39":{
+		"halloween2013":true
+	},
+	"dzejmsbont007":{
+		"halloween2013":true
+	},
+	"vermillion":{
+		"halloween2013":true
+	},
+	"tetony":{
+		"halloween2013":true
+	},
+	"lazytev":{
+		"halloween2013":true
+	},
+	"dravem":{
+		"halloween2013":true
+	},
+	"jexel":{
+		"halloween2013":true
+	},
+	"franzzon":{
+		"halloween2013":true
+	},
+	"antoniossomatos":{
+		"halloween2013":true
+	},
+	"tartflavor":{
+		"halloween2013":true
+	},
+	"vodeni":{
+		"halloween2013":true
+	},
+	"uselessb":{
+		"halloween2013":true
+	},
+	"asperyules":{
+		"halloween2013":true
+	},
+	"speedmaniac":{
+		"halloween2013":true
+	},
+	"jackfrost":{
+		"halloween2013":true
+	},
+	"eltorso":{
+		"halloween2013":true
+	},
+	"caymss":{
+		"halloween2013":true
+	},
+	"dinksmallwood":{
+		"halloween2013":true
+	},
+	"foxepl":{
+		"halloween2013":true
+	},
+	"benx92":{
+		"halloween2013":true
+	},
+	"lookatmynewdog":{
+		"halloween2013":true
+	},
+	"defias":{
+		"halloween2013":true
+	},
+	"seppel":{
+		"halloween2013":true
+	},
+	"nomed":{
+		"halloween2013":true
+	},
+	"andreadandrea":{
+		"halloween2013":true
+	},
+	"banzaaai":{
+		"halloween2013":true
+	},
+	"steamlover":{
+		"halloween2013":true
+	},
+	"daskshadow":{
+		"halloween2013":true
+	},
+	"memoria":{
+		"halloween2013":true
+	},
+	"admir34":{
+		"halloween2013":true
+	},
+	"himohillo":{
+		"halloween2013":true
+	},
+	"theponz":{
+		"halloween2013":true
+	},
+	"grimlock":{
+		"halloween2013":true
+	},
+	"wolf07":{
+		"halloween2013":true
+	},
+	"makam":{
+		"halloween2013":true
+	},
+	"jonex":{
+		"halloween2013":true
+	},
+	"urbanthief":{
+		"halloween2013":true
+	},
+	"kasztoix":{
+		"halloween2013":true
+	},
+	"estbarul":{
+		"halloween2013":true
+	},
+	"zebeker":{
+		"halloween2013":true
+	},
+	"law666":{
+		"halloween2013":true
+	},
+	"einfachgaer":{
+		"halloween2013":true
+	},
+	"faithnomore82":{
+		"halloween2013":true
+	},
+	"reasaurus":{
+		"halloween2013":true
+	},
+	"chour":{
+		"halloween2013":true
+	},
+	"nabzer":{
+		"halloween2013":true
+	},
+	"staticbutcher":{
+		"halloween2013":true
+	},
+	"kogepan":{
+		"halloween2013":true
+	},
+	"washburnnm":{
+		"halloween2013":true
+	},
+	"nonamejuju":{
+		"halloween2013":true
+	},
+	"ptg":{
+		"halloween2013":true
+	},
+	"uraniumfalconpunch":{
+		"halloween2013":true
+	},
+	"kataztrophik":{
+		"halloween2013":true
+	},
+	"heleanorae":{
+		"halloween2013":true
+	},
+	"nodak":{
+		"halloween2013":true
+	},
+	"darthmoor":{
+		"halloween2013":true
+	},
+	"freak1nger":{
+		"halloween2013":true
+	},
+	"kaisertroll":{
+		"halloween2013":true
+	},
+	"vaiozbreak":{
+		"halloween2013":true
+	},
+	"buldogplay":{
+		"halloween2013":true
+	},
+	"krimhera":{
+		"halloween2013":true
+	},
+	"verksies":{
+		"halloween2013":true
+	},
+	"thepsykoking":{
+		"halloween2013":true
+	},
+	"noobkyp":{
+		"halloween2013":true
+	},
+	"jamoke":{
+		"halloween2013":true
+	},
+	"fiftykyu":{
+		"halloween2013":true
+	},
+	"q00u":{
+		"halloween2013":true
+	},
+	"acer7":{
+		"halloween2013":true
+	},
+	"alshadur":{
+		"halloween2013":true
+	},
+	"iriondaronin":{
+		"halloween2013":true
+	},
+	"gamerplava":{
+		"halloween2013":true
+	},
+	"tribok":{
+		"halloween2013":true
+	},
+	"rinarin":{
+		"halloween2013":true
+	},
+	"dgek90pl":{
+		"halloween2013":true
+	},
+	"epaz":{
+		"halloween2013":true
+	},
+	"nuculars":{
+		"halloween2013":true
+	},
+	"igotelbows":{
+		"halloween2013":true
+	},
+	"georgemc":{
+		"halloween2013":true
+	},
+	"psyko":{
+		"halloween2013":true
+	},
+	"bendy":{
+		"halloween2013":true
+	},
+	"chiasm":{
+		"halloween2013":true
+	},
+	"1000mgginseng":{
+		"halloween2013":true
+	},
+	"francyboy":{
+		"halloween2013":true
+	},
+	"randall":{
+		"halloween2013":true
+	},
+	"zennirvana":{
+		"halloween2013":true
+	},
+	"thabto":{
+		"halloween2013":true
+	},
+	"knikari":{
+		"halloween2013":true
+	},
+	"janslike":{
+		"halloween2013":true
+	},
+	"scr33v0r":{
+		"halloween2013":true
+	},
+	"infernotoni":{
+		"halloween2013":true
+	},
+	"gainja":{
+		"halloween2013":true
+	},
+	"cristi075":{
+		"halloween2013":true
+	},
+	"chiragnawal":{
+		"halloween2013":true
+	},
+	"einanderer":{
+		"halloween2013":true
+	},
+	"kilarbourbon":{
+		"halloween2013":true
+	},
+	"nastyhero":{
+		"halloween2013":true
+	},
+	"crazee":{
+		"halloween2013":true
+	},
+	"timmaeh":{
+		"halloween2013":true
+	},
+	"abletoburn":{
+		"halloween2013":true
+	},
+	"dig":{
+		"halloween2013":true
+	},
+	"lamberp":{
+		"halloween2013":true
+	},
+	"dreyer1337":{
+		"halloween2013":true
+	},
+	"haborym562":{
+		"halloween2013":true
+	},
+	"huerguita":{
+		"halloween2013":true
+	},
+	"rabbidking":{
+		"halloween2013":true
+	},
+	"andrepcg":{
+		"halloween2013":true
+	},
+	"incog":{
+		"halloween2013":true
+	},
+	"uroboros":{
+		"halloween2013":true
+	},
+	"demojkeee":{
+		"halloween2013":true
+	},
+	"nv":{
+		"halloween2013":true
+	},
+	"cloudyskyez":{
+		"halloween2013":true
+	},
+	"ev11":{
+		"halloween2013":true
+	},
+	"gangnamstyle":{
+		"halloween2013":true
+	},
+	"soularos":{
+		"halloween2013":true
+	},
+	"prus666":{
+		"halloween2013":true
+	},
+	"bloodygarfild":{
+		"halloween2013":true
+	},
+	"mallorn":{
+		"halloween2013":true
+	},
+	"alvetor":{
+		"halloween2013":true
+	},
+	"rzehooj":{
+		"halloween2013":true
+	},
+	"gamersick":{
+		"halloween2013":true
+	},
+	"olddan":{
+		"halloween2013":true
+	},
+	"dyehardz":{
+		"halloween2013":true
+	},
+	"jxrdan":{
+		"halloween2013":true
+	},
+	"chriscamu":{
+		"halloween2013":true
+	},
+	"makromate":{
+		"halloween2013":true
+	},
+	"hidas":{
+		"halloween2013":true
+	},
+	"lilfenrir":{
+		"halloween2013":true
+	},
+	"painik":{
+		"halloween2013":true
+	},
+	"darkreality":{
+		"halloween2013":true
+	},
+	"skalondon":{
+		"halloween2013":true
+	},
+	"volcm":{
+		"halloween2013":true
+	},
+	"mocart":{
+		"halloween2013":true
+	},
+	"whitdemon":{
+		"halloween2013":true
+	},
+	"sviat93":{
+		"halloween2013":true
+	},
+	"zerbaderb":{
+		"halloween2013":true
+	},
+	"spammathon":{
+		"halloween2013":true
+	},
+	"gallert":{
+		"halloween2013":true
+	},
+	"gabito1677":{
+		"halloween2013":true
+	},
+	"dunther":{
+		"halloween2013":true
+	},
+	"adamantius":{
+		"halloween2013":true
+	},
+	"jubsv1":{
+		"halloween2013":true
+	},
+	"nyhbi":{
+		"halloween2013":true
+	},
+	"redzrex":{
+		"halloween2013":true
+	},
+	"azro":{
+		"halloween2013":true
+	},
+	"emty":{
+		"halloween2013":true
+	},
+	"nuyasan":{
+		"halloween2013":true
+	},
+	"playingcards":{
+		"halloween2013":true
+	},
+	"tsok":{
+		"halloween2013":true
+	},
+	"baschtard93":{
+		"halloween2013":true
+	},
+	"luller":{
+		"halloween2013":true
+	},
+	"semijames":{
+		"halloween2013":true
 	}
-	
 }},'*')
