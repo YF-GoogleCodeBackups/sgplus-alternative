@@ -1135,7 +1135,8 @@ postMessage({awards:{
 		"TriviaKnight":true
 	},
 	"analfries":{
-		"TriviaKnight":true
+		"TriviaKnight":true,
+		"halloween2013":true
 	},
 	"fedttony":{
 		"TriviaKnight":true
@@ -1326,9 +1327,6 @@ postMessage({awards:{
 		"halloween2013":true
 	},
 	"nonos":{
-		"halloween2013":true
-	},
-	"analfries":{
 		"halloween2013":true
 	},
 	"mike2kevin":{
