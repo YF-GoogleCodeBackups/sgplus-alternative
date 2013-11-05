@@ -139,9 +139,6 @@ postMessage({awards:{
 	"wheatley5981":{
 		"halloween2012":true
 	},
-	"xiangming":{
-		"halloween2012":true
-	},
 	"btgz":{
 		"halloween2012":true
 	},
@@ -252,9 +249,6 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"kamatsu01":{
-		"halloween2012":true
-	},
-	"lezz":{
 		"halloween2012":true
 	},
 	"overiderjustino":{
@@ -741,9 +735,6 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"killrclown":{
-		"halloween2012":true
-	},
-	"psygineer":{
 		"halloween2012":true
 	},
 	"wuut":{
