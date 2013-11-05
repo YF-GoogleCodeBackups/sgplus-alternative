@@ -6,6 +6,7 @@ postMessage({awards:{
 	},
 	"wbarton":{
 		"community":true
+		"TriviaKnight":true
 	},
 	"rinarin":{
 		"groupchat":true,
@@ -41,7 +42,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"chronicdiscord":{
-		"groupchat":true
+		"groupchat":true,
+		"TriviaKnight":true
 	},
 	"c00lizz":{
 		"groupchat":true
@@ -386,7 +388,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"hnnngh":{
-		"halloween2012":true
+		"halloween2012":true,
+		"TriviaKnight":true
 	},
 	"shazbot":{
 		"halloween2012":true
@@ -450,7 +453,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"kurgan":{
-		"halloween2012":true
+		"halloween2012":true,
+		"TriviaKnight":true
 	},
 	"firstfearer":{
 		"halloween2012":true
@@ -567,7 +571,8 @@ postMessage({awards:{
 	},
 	"nimbulan":{
 		"halloween2012":true,
-		"groupchat": true
+		"groupchat": true,
+		"TriviaKnight":true
 	},
 	"mfromm":{
 		"halloween2012":true
@@ -579,7 +584,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"monukai":{
-		"halloween2012":true
+		"halloween2012":true,
+		"TriviaKnight":true
 	},
 	"madnessnewb":{
 		"groupchat":true,
@@ -632,7 +638,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"gptrixie":{
-		"halloween2012":true
+		"halloween2012":true,
+		"TriviaKnight":true
 	},
 	"huntingnoob":{
 		"halloween2012":true
@@ -968,7 +975,8 @@ postMessage({awards:{
 		"groupchat":true
 	},
 	"cxiong93":{
-		"groupchat":true
+		"groupchat":true,
+		"TriviaKnight":true
 	},
 	"unicorn":{
 		"groupchat":true
@@ -1063,5 +1071,108 @@ postMessage({awards:{
 	},
 	"leomoty":{
 		"TriviaKnight":true
+	},
+	"fortybucksdown":{
+		"TriviaKnight":true
+	},
+	"nevyn":{
+		"TriviaKnight":true
+	},
+	"andreavus":{
+		"TriviaKnight":true
+	},
+	"jazzman0":{
+		"TriviaKnight":true
+	},
+	"wargharbl":{
+		"TriviaKnight":true
+	},
+	"peasofcrab":{
+		"TriviaKnight":true
+	},
+	"deltabrainwave":{
+		"TriviaKnight":true
+	},
+	"wormy":{
+		"TriviaKnight":true
+	},
+	"psychockey":{
+		"TriviaKnight":true
+	},
+	"taytothief":{
+		"TriviaKnight":true
+	},
+	"lethalabsol":{
+		"TriviaKnight":true
+	},
+	"sexyfelga":{
+		"TriviaKnight":true
+	},
+	"grundig":{
+		"TriviaKnight":true
+	},
+	"omnitau":{
+		"TriviaKnight":true
+	},
+	"bobertmann":{
+		"TriviaKnight":true
+	},
+	"doobs":{
+		"TriviaKnight":true
+	},
+	"omer681":{
+		"TriviaKnight":true
+	},
+	"oracle104":{
+		"TriviaKnight":true
+	},
+	"doctorofjournalism":{
+		"TriviaKnight":true
+	},
+	"junable":{
+		"TriviaKnight":true
+	},
+	"analfries":{
+		"TriviaKnight":true
+	},
+	"fedttony":{
+		"TriviaKnight":true
+	},
+	"4evra":{
+		"TriviaKnight":true
+	},
+	"likwitsnake":{
+		"TriviaKnight":true
+	},
+	"elix":{
+		"TriviaKnight":true
+	},
+	"nastyhero":{
+		"TriviaKnight":true
+	},
+	"dillonmabry":{
+		"TriviaKnight":true
+	},
+	"seagull7":{
+		"TriviaKnight":true
+	},
+	"cth":{
+		"TriviaKnight":true
+	},
+	"regifterer":{
+		"TriviaKnight":true
+	},
+	"kerepekman":{
+		"TriviaKnight":true
+	},
+	"killa24":{
+		"TriviaKnight":true
+	},
+	"spaghadeity":{
+		"TriviaKnight":true
+	},
+	"notnsane":{
+		"TriviaKnight":true
 	}
+	
 }},'*')
