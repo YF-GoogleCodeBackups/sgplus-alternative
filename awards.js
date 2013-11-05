@@ -1072,7 +1072,8 @@ postMessage({awards:{
 	},
 	"leomoty":{
 		"TriviaKnight":true,
-		"halloween2013":true
+		"halloween2013":true,
+		"groupchat":true
 	},
 	"fortybucksdown":{
 		"TriviaKnight":true
