@@ -5,7 +5,7 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"wbarton":{
-		"community":true
+		"community":true,
 		"TriviaKnight":true
 	},
 	"rinarin":{
