@@ -2267,7 +2267,7 @@
 		//Changelog
 		$('<div class="sgpPage" id="sgpCP_Changelog">\
 		<div class="input" style="padding:0 0 8px 0;"><div class="title">SteamGifts Plus Changelog</div><div class="clear_both"></div></div>\
-		<div class="important"><iframe style="width: 100%; height:400px; background-color: #FFFFFF; border: 1px solid #ECECEC; border-radius: 5px 5px 5px 5px; padding: 5px;" frameborder="0" src="http://http://sgplus-alternative.googlecode.com/svn/trunk/changelog.txt"></iframe></div>\
+		<div class="important"><iframe style="width: 100%; height:400px; background-color: #FFFFFF; border: 1px solid #ECECEC; border-radius: 5px 5px 5px 5px; padding: 5px;" frameborder="0" src="http://sgplus-alternative.googlecode.com/svn/trunk/changelog.txt"></iframe></div>\
 		</div>').appendTo('.invites', '.wrapper').hide();
 		
 		//Footer
