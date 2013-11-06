@@ -165,7 +165,7 @@
 	$.fn.reverse = [].reverse;
 	
 	var addon = {
-		'version': '0.9.86-BETA'
+		'version': '0.9.87-BETA'
 	};
 	
 	//I can has bucket?
