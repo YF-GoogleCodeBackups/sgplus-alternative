@@ -1,7 +1,8 @@
 0.9.87 BETA ALTERNATIVE
 	+ Added badge for the 2013 Halloween forum event.
 	* Changed SRC and relocated the files from the wonky hosting hosting of Binero.
-	* Changed @include to @match for the Chrome users in the installer, so it will only have permissions to run on SteamGifts.
+	* Changed @include to @match for the Chrome users in the installer, it will only have permissions to run on SteamGifts.
+	* Now dubbed as and using @name SteamGifts Plus Alternative.
 
 0.9.86-BETA
 	* Fixed the '# New' comment notification not appearing for additonal pages loaded with endless scrolling.
