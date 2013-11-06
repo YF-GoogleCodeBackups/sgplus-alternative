@@ -2271,7 +2271,7 @@
 		</div>').appendTo('.invites', '.wrapper').hide();
 		
 		//Footer
-		$('.invites', '.wrapper').append('<div class="divider"></div><div class="important"><center>SteamGifts Plus Alternative '+addon['version']+' &copy; 2012-2013 <a href="http://www.steamgifts.com/user/kaitlyn">Kaitlyn</a> | &#32; <a href="http://www.steamgifts.com/user/dotazured">dotazured</a> | &#32; <a href="http://www.steamgifts.com/user/leomoty">leomoty</a><br /><a href="http://www.steamgifts.com/forum/u2zKI/steamgifts-plus/page/' + (configGet('f_newestfirst') ? '31337/' : '1/') + '">View Forum Topic</a></center></div>');
+		$('.invites', '.wrapper').append('<div class="divider"></div><div class="important"><center>SteamGifts Plus Alternative '+addon['version']+' &copy; 2012-2013 <a href="http://www.steamgifts.com/user/kaitlyn">Kaitlyn</a> | &#32; <a href="http://www.steamgifts.com/user/dotazured">dotazured</a> | &#32; <a href="http://www.steamgifts.com/user/leomoty">leomoty</a><br /><a href="http://www.steamgifts.com/forum/GUbDV/steamgifts-plus-alternative/page/' + (configGet('f_newestfirst') ? '31337/' : '1/') + '">View Forum Topic</a></center></div>');
 		
 		//Initialize Control Panel.
 		controlPanelInit();
