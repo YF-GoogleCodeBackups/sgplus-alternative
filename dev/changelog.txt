@@ -1,5 +1,6 @@
 0.9.87 BETA
 	* Changed SRC and relocated the files from the wonky hosting hosting of Binero.
+	* Changed @include to @match for the Chrome users in the installer, so it will only have permissions to run on SteamGifts.
 	* Added badge for the 2013 Halloween forum event.
 
 0.9.86-BETA
