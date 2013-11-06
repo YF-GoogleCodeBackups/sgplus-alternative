@@ -918,7 +918,6 @@ postMessage({awards:{
 	"dotazured":{
 		"groupchat":true,
 		"halloween2012":true,
-		"halloween2013":true,
 		"halloween2013":true
 	},
 	"gawaine":{
