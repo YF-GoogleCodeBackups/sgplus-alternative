@@ -1,1 +1,6 @@
-MIA testing
+*Changes from 0.9.86 BETA to 0.9.87 BETA
+ -Changed SRC and relocated the files from the wonky hosting hosting of Binero.
+ -Added badge for the 2013 Halloween forum event.
+
+Previous changelogs are missing in action due to the hosting disappeared of
+the original SteamGifts Plus userscript, thus no earlier changelog is available.
