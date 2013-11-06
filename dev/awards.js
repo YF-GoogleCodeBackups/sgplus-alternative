@@ -12,7 +12,8 @@ postMessage({awards:{
 		"groupchat":true,
 		"community":true,
 		"halloween2012":true,
-		"TriviaKnight":true
+		"TriviaKnight":true,
+		"halloween2013":true
 	},
 	"raiden":{
 		"groupchat":true,
@@ -59,7 +60,8 @@ postMessage({awards:{
 		"groupchat":true
 	},
 	"kappei":{
-		"groupchat":true
+		"groupchat":true,
+		"halloween2013":true
 	},
 	"dimon222":{
 		"groupchat":true
@@ -140,7 +142,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"wheatley5981":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"btgz":{
 		"halloween2012":true
@@ -161,7 +164,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"andrea":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"whiteguy3":{
 		"halloween2012":true
@@ -173,7 +177,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"jamoke":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"zerocoolzc":{
 		"halloween2012":true
@@ -192,7 +197,8 @@ postMessage({awards:{
 		"groupchat":true
 	},
 	"nfreak":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"renegado447":{
 		"halloween2012":true
@@ -442,7 +448,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"kaisertroll":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"sherardy":{
 		"halloween2012":true
@@ -492,7 +499,8 @@ postMessage({awards:{
 	},
 	"ptg":{
 		"halloween2012":true,
-		"groupchat":true
+		"groupchat":true,
+		"halloween2013":true
 	},
 	"trainn":{
 		"halloween2012":true
@@ -520,7 +528,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"semijames":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"ball00n":{
 		"halloween2012":true
@@ -627,7 +636,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"thepsykoking":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"onboard":{
 		"halloween2012":true
@@ -636,7 +646,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"theponz":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"gptrixie":{
 		"halloween2012":true,
@@ -712,7 +723,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"mtic":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"ca3d0":{
 		"halloween2012":true
@@ -766,7 +778,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"nonos":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"jossarien":{
 		"halloween2012":true
@@ -857,7 +870,8 @@ postMessage({awards:{
 		"halloween2012":true
 	},
 	"brutodetestssb":{
-		"halloween2012":true
+		"halloween2012":true,
+		"halloween2013":true
 	},
 	"dealerpl":{
 		"halloween2012":true
@@ -1001,10 +1015,12 @@ postMessage({awards:{
 		"TriviaKnight":true
 	},
 	"thomen":{
-		"TriviaKnight":true
+		"TriviaKnight":true,
+		"halloween2013":true
 	},
 	"gainja":{
-		"TriviaKnight":true
+		"TriviaKnight":true,
+		"halloween2013":true
 	},
 	"kellhus":{
 		"TriviaKnight":true
@@ -1071,6 +1087,7 @@ postMessage({awards:{
 		"TriviaKnight":true
 	},
 	"leomoty":{
+		"groupchat":true,
 		"TriviaKnight":true,
 		"halloween2013":true
 	},
@@ -1152,7 +1169,8 @@ postMessage({awards:{
 		"TriviaKnight":true
 	},
 	"nastyhero":{
-		"TriviaKnight":true
+		"TriviaKnight":true,
+		"halloween2013":true
 	},
 	"dillonmabry":{
 		"TriviaKnight":true
@@ -1177,6 +1195,9 @@ postMessage({awards:{
 		"TriviaKnight":true
 	},
 	"notnsane":{
+		"TriviaKnight":true
+	},
+	"kenshironeo":{
 		"TriviaKnight":true
 	},
 	"sleepycat":{
@@ -1281,9 +1302,6 @@ postMessage({awards:{
 	"catchthebear":{
 		"halloween2013":true
 	},
-	"thomen":{
-		"halloween2013":true
-	},
 	"erreff":{
 		"halloween2013":true
 	},
@@ -1326,9 +1344,6 @@ postMessage({awards:{
 	"obusy":{
 		"halloween2013":true
 	},
-	"nonos":{
-		"halloween2013":true
-	},
 	"mike2kevin":{
 		"halloween2013":true
 	},
@@ -1363,9 +1378,6 @@ postMessage({awards:{
 		"halloween2013":true
 	},
 	"zeus9860":{
-		"halloween2013":true
-	},
-	"brutodetestssb":{
 		"halloween2013":true
 	},
 	"godprobe":{
@@ -1434,12 +1446,6 @@ postMessage({awards:{
 	"pelish":{
 		"halloween2013":true
 	},
-	"kappei":{
-		"halloween2013":true
-	},
-	"andrea":{
-		"halloween2013":true
-	},
 	"doober":{
 		"halloween2013":true
 	},
@@ -1458,13 +1464,7 @@ postMessage({awards:{
 	"veteranu21":{
 		"halloween2013":true
 	},
-	"wheatley5981":{
-		"halloween2013":true
-	},
 	"mari1":{
-		"halloween2013":true
-	},
-	"mtic":{
 		"halloween2013":true
 	},
 	"dru95":{
@@ -1483,9 +1483,6 @@ postMessage({awards:{
 		"halloween2013":true
 	},
 	"serenity87hun":{
-		"halloween2013":true
-	},
-	"nfreak":{
 		"halloween2013":true
 	},
 	"matiasm15":{
@@ -1584,9 +1581,6 @@ postMessage({awards:{
 	"himohillo":{
 		"halloween2013":true
 	},
-	"theponz":{
-		"halloween2013":true
-	},
 	"grimlock":{
 		"halloween2013":true
 	},
@@ -1641,9 +1635,6 @@ postMessage({awards:{
 	"nonamejuju":{
 		"halloween2013":true
 	},
-	"ptg":{
-		"halloween2013":true
-	},
 	"uraniumfalconpunch":{
 		"halloween2013":true
 	},
@@ -1662,9 +1653,6 @@ postMessage({awards:{
 	"freak1nger":{
 		"halloween2013":true
 	},
-	"kaisertroll":{
-		"halloween2013":true
-	},
 	"vaiozbreak":{
 		"halloween2013":true
 	},
@@ -1677,13 +1665,7 @@ postMessage({awards:{
 	"verksies":{
 		"halloween2013":true
 	},
-	"thepsykoking":{
-		"halloween2013":true
-	},
 	"noobkyp":{
-		"halloween2013":true
-	},
-	"jamoke":{
 		"halloween2013":true
 	},
 	"fiftykyu":{
@@ -1705,9 +1687,6 @@ postMessage({awards:{
 		"halloween2013":true
 	},
 	"tribok":{
-		"halloween2013":true
-	},
-	"rinarin":{
 		"halloween2013":true
 	},
 	"dgek90pl":{
@@ -1761,9 +1740,6 @@ postMessage({awards:{
 	"infernotoni":{
 		"halloween2013":true
 	},
-	"gainja":{
-		"halloween2013":true
-	},
 	"cristi075":{
 		"halloween2013":true
 	},
@@ -1774,9 +1750,6 @@ postMessage({awards:{
 		"halloween2013":true
 	},
 	"kilarbourbon":{
-		"halloween2013":true
-	},
-	"nastyhero":{
 		"halloween2013":true
 	},
 	"crazee":{
@@ -1939,9 +1912,6 @@ postMessage({awards:{
 		"halloween2013":true
 	},
 	"luller":{
-		"halloween2013":true
-	},
-	"semijames":{
 		"halloween2013":true
 	}
 }},'*')
