@@ -1088,6 +1088,7 @@ postMessage({awards:{
 		"TriviaKnight":true
 	},
 	"leomoty":{
+		"groupchat":true,
 		"TriviaKnight":true,
 		"halloween2013":true
 	},
