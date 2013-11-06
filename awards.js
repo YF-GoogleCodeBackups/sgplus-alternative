@@ -1153,7 +1153,8 @@ postMessage({awards:{
 	},
 	"analfries":{
 		"TriviaKnight":true,
-		"halloween2013":true
+		"halloween2013":true,
+		"groupchat":true
 	},
 	"fedttony":{
 		"TriviaKnight":true
