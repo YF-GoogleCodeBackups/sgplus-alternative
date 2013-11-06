@@ -1,1 +1,9 @@
-MIA
+Previous changelogs are missing in action due to the hosting disappeared of the original SteamGifts Plus userscript,
+thus no earlier changelog is available.
+
+Changes from 0.9.86 to 0.9.87
+
+Changed SRC and relocated the hosting from the wonky temporary hosting on Binero.
+
+Added badge for the 2013 Halloween forum event.
+
