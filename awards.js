@@ -1914,5 +1914,5 @@ postMessage({awards:{
 	},
 	"luller":{
 		"halloween2013":true
-	},
+	}
 }},'*')
