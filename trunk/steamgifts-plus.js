@@ -251,7 +251,8 @@
 		'crossbourne',
 		'rinarin',
 		'bobofatt',
-		'lorkhan'
+		'lorkhan',
+		'theshobo'
 	];
 	
 	//Default config option values. ge = general, ge_be = better editor, gi = giveaway, gi_f = giveaway filter, f = forum, u = user, a = advanced.
