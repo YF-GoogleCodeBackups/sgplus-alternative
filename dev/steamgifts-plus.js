@@ -3997,7 +3997,7 @@
 	 */
 	$('#sgpViewAllBadges').live('click', function() {
 		$('<div id="sgpOverlayBG"></div>').appendTo('body').fadeIn('slow');
-		$('body').append('<div class="sgpOverlay" style="width: 400px; height: 370px; margin-left:-200px; margin-top: -185px; z-index: 50; background-color: #313B45; background-image: none;">\
+		$('body').append('<div class="sgpOverlay" style="width: 400px; height: 430px; margin-left:-200px; margin-top: -185px; z-index: 50; background-color: #313B45; background-image: none;">\
 			<div style="position:relative;"><img class="sgpProfileAward" src="'+image.award["1Year"]+'" ><div class="sgpProfileAwardInfo" style="width:350px;"><span style="font-weight:bold;">1 Year Club</span><br>Been a member for 1 year.</div></div>\
 			<div style="position:relative;"><img class="sgpProfileAward" src="'+image.award["2Year"]+'" ><div class="sgpProfileAwardInfo" style="width:350px;"><span style="font-weight:bold;">2 Year Club</span><br>Been a member for 2 years.</div></div>\
 			<div style="position:relative;"><img class="sgpProfileAward" src="'+image.award["500Value"]+'" ><div class="sgpProfileAwardInfo" style="width:350px;"><span style="font-weight:bold;">Contributor</span><br>Gifted $500 in giveaways.</div></div>\
