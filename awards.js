@@ -1495,7 +1495,7 @@ postMessage({awards:{
 	"dzejmsbont007":{
 		"halloween2013":true
 	},
-	"vermillion":{
+	"vermilion":{
 		"halloween2013":true
 	},
 	"tetony":{
